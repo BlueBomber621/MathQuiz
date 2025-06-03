@@ -27,7 +27,7 @@ namespace MathQuiz
             timeLabel.Text = "5:00";
 
             // Prep question number
-            questionNum = 49;
+            questionNum = 1;
         }
 
         public int Generate_Question()
